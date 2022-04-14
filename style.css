@@ -1,14 +1,13 @@
 #title
 {
 	font-family: 'Sacramento';
-	font-size: 149px;
+	font-size: 140px;
 	text-align: center;
-	text-decoration: blink;
 	color:  #00ffff;
 }
 body 
 {
-	background-color: #b5a6a5;
+	background-color: #000000;
 }
 *{
 max-width: 1000px;
